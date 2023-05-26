@@ -1,6 +1,3 @@
-package simple;
-
-
 public class armstrong {
     public static void main(String[] args) {
         int a=153,r,rem=0,temp;
